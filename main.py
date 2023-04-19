@@ -3,7 +3,7 @@ st.title("Largest among three numbers")
 
 n1 = st.number_input("Enter number 1")
 n2 = st.number_input("Enter number 2")
-n2 = st.number_input("Enter number 3")
+n3 = st.number_input("Enter number 3")
 flag = st.button("Largest Number")
 
 def largest_number(a,b,c):
